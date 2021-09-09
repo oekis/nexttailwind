@@ -1,3 +1,3 @@
 export default function index() {
-  return <div>Header</div>;
+  return <div className="text-center">@copyright Usman Kiswanto</div>;
 }

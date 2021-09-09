@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import Layout from '../components/Layout';
 
 export default function custom404() {
   const router = useRouter();
@@ -10,9 +11,9 @@ export default function custom404() {
     }, 3000);
   }, []);
   return (
-    <div>
+    <Layout title="Oopss 404">
       <h1>OooPsssss.....</h1>
       <h1>Salah ALamat Cesssssss......</h1>
-    </div>
+    </Layout>
   );
 }
