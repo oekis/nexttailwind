@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run the development server:
+Pertama, jalankan server pengembangan:
 
 ```bash
 npm run dev
@@ -8,15 +8,15 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buka http://localhost:3000 dengan browser Anda untuk melihat hasilnya.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Anda dapat mulai mengedit halaman dengan memodifikasi pages/index.js. Halaman diperbarui secara otomatis saat Anda mengedit file.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Untuk mempelajari lebih lanjut tentang Next.js, lihat referensi berikut:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) - pelajari tentang fitur dan API Next.js
+- [Learn Next.js](https://nextjs.org/learn) - tutorial Next.Js interaktif.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+nda dapat melihat [the Next.js GitHub repository](https://github.com/vercel/next.js/)
