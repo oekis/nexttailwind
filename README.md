@@ -19,4 +19,4 @@ Untuk mempelajari lebih lanjut tentang Next.js, lihat referensi berikut:
 - [Next.js Documentation](https://nextjs.org/docs) - pelajari tentang fitur dan API Next.js
 - [Learn Next.js](https://nextjs.org/learn) - tutorial Next.Js interaktif.
 
-nda dapat melihat [the Next.js GitHub repository](https://github.com/vercel/next.js/)
+Anda dapat melihat [the Next.js GitHub repository](https://github.com/vercel/next.js/)
