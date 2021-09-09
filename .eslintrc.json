@@ -20,6 +20,7 @@
     "react/jsx-one-expression-per-line": "off",
     "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "object-curly-newline": "off",
-    "react/destructuring-assignment": "off"
+    "react/destructuring-assignment": "off",
+    "jsx-a11y/anchor-is-valid": "off"
   }
 }
