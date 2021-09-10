@@ -1,3 +1,9 @@
+import Layout from '../../components/Layout';
+
 export default function register() {
-  return <div>register</div>;
+  return (
+    <Layout>
+      <div>register</div>
+    </Layout>
+  );
 }
